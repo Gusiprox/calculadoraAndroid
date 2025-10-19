@@ -20,7 +20,7 @@ Esto se tiene que deber a la relacion de altura, para que se viese bien tendria 
 
 En vez de poner que el 1 se vinculase con la parte superior, hize que la parte inferior de 1 se vinculase con la parte inferior de la pantalla, y como lo demas lo sigue se ve bien
 
-![Captura de la ejecucion](../doc/CapturaVistas2.PNG)
+![Captura de la ejecucion](/doc/CapturaVistas2.PNG)
 
 Otro problema a la hora de hacer el git, es que no se porque se inicializó mal o algo, todo lo hize desde android estudio asique no se lo que pasó.
 
