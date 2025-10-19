@@ -10,7 +10,7 @@
 
 ### Captura ejecución
 
-![Captura de la ejecucion](/doc/CapturasVistas.png)
+![Captura de la ejecucion](/doc/CapturaVistas.PNG)
 
 En esta captura se ve a la izquierda del todo la vista diseño donde he creado todo, y en la derecha del todo la ejecución, he resaltado con azul un espacio en blanco que no se corresponde con el diseño
 
@@ -20,7 +20,9 @@ Esto se tiene que deber a la relacion de altura, para que se viese bien tendria 
 
 En vez de poner que el 1 se vinculase con la parte superior, hize que la parte inferior de 1 se vinculase con la parte inferior de la pantalla, y como lo demas lo sigue se ve bien
 
-![Captura de la ejecucion](doc/CapturasVistas2.png)
+![Captura de la ejecucion](../doc/CapturaVistas2.PNG)
+
+Otro problema a la hora de hacer el git, es que no se porque se inicializó mal o algo, todo lo hize desde android estudio asique no se lo que pasó.
 
 ### Codigo XML
 
