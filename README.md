@@ -1,8 +1,11 @@
 # Calculadora
 
+Rep en: https://github.com/Gusiprox/calculadoraAndroid.git
+
 ### Comentarios:
 
 - Mi plan inicial era hacer la barra del resultado y de ahi colgar el primer numero, pero no se que View es, asumo que es un textView pero no se que ponerle dentro
+> Esta parte la solucioné siendo un rawText el correcto, pero para no mover la estructura lo enlazé con el 1
 - Me pareció un poco raro crear las strings como "uno" valor 1, ya que es algo fíjo
 - Para los numeros decidí colgarlos por filas, el 1 es con respecto a la pantalla, el 4 respecto al 1 dejando 8px por arriba, y el 7 del 4. Los demas son respecto a su primer numero en la fila
 - Para el Style lo cambie a uno que no tenia bordes redondeados
